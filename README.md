@@ -2,7 +2,7 @@
 
 Free, local, offline receipt organizer for freelancers and small businesses. Drop receipt photos, PDFs, or screenshots -- OCR extracts vendor, amount, date, and auto-categorizes.
 
-This is the **Community Edition** (free version). For dashboard charts, CSV/Excel export, standalone EXE builds, and more, check out **ReceiptVault Pro**: [https://gumroad.com/l/receiptvault-pro](https://gumroad.com/l/receiptvault-pro)
+This is the **Community Edition** (free version). For dashboard charts, CSV/Excel export, standalone EXE builds, and more, check out **ReceiptVault Pro**: [https://gumroad.com/l/Receiptvault](https://gumroad.com/l/receiptvault)
 
 ## Quick Start
 
@@ -49,7 +49,7 @@ ReceiptVault Pro adds:
 - Standalone EXE build (no Python install needed for end users)
 - One-click launcher scripts (Windows & macOS/Linux)
 
-**Get ReceiptVault Pro:** [https://gumroad.com/l/receiptvault-pro](https://gumroad.com/l/receiptvault-pro)
+**Get ReceiptVault Pro:** [https://gumroad.com/l/Receiptvault](https://gumroad.com/l/receiptvault)
 
 ## Tech Stack
 
